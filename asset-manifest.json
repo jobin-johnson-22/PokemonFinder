@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jobinjohnson22.github.io/PokemonFinder/static/css/main.aae5e04e.chunk.css",
+    "main.js": "/jobinjohnson22.github.io/PokemonFinder/static/js/main.70f68490.chunk.js",
+    "main.js.map": "/jobinjohnson22.github.io/PokemonFinder/static/js/main.70f68490.chunk.js.map",
+    "runtime-main.js": "/jobinjohnson22.github.io/PokemonFinder/static/js/runtime-main.355ff630.js",
+    "runtime-main.js.map": "/jobinjohnson22.github.io/PokemonFinder/static/js/runtime-main.355ff630.js.map",
+    "static/js/2.5293f622.chunk.js": "/jobinjohnson22.github.io/PokemonFinder/static/js/2.5293f622.chunk.js",
+    "static/js/2.5293f622.chunk.js.map": "/jobinjohnson22.github.io/PokemonFinder/static/js/2.5293f622.chunk.js.map",
+    "index.html": "/jobinjohnson22.github.io/PokemonFinder/index.html",
+    "static/css/main.aae5e04e.chunk.css.map": "/jobinjohnson22.github.io/PokemonFinder/static/css/main.aae5e04e.chunk.css.map",
+    "static/js/2.5293f622.chunk.js.LICENSE.txt": "/jobinjohnson22.github.io/PokemonFinder/static/js/2.5293f622.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355ff630.js",
+    "static/js/2.5293f622.chunk.js",
+    "static/css/main.aae5e04e.chunk.css",
+    "static/js/main.70f68490.chunk.js"
+  ]
+}
